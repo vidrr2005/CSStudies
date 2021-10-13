@@ -1,0 +1,148 @@
+.top-container {
+  background-color: #F1ECC3;
+  margin-bottom: 5px;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 61%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 35%;
+}
+
+h1 {
+  font-family: 'Gabriela', serif;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #57837B;
+  line-height: 2;
+}
+
+.pfp {
+  width: 250px;
+  height: 250px;
+}
+
+.skill1-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill2-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #57837B;
+  font-weight: normal;
+}
+
+.mountain {
+  margin-top: 5%;
+  width: 40%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  padding-bottom: 50px;
+}
+
+.contactme-button {
+   background: #57837B;
+   background-image: -webkit-linear-gradient(top, #57837B, #2A4E48);
+   background-image: -moz-linear-gradient(top, #57837B, #2A4E48);
+   background-image: -ms-linear-gradient(top, #57837B, #2A4E48);
+   background-image: -o-linear-gradient(top, #57837B, #2A4E48);
+   background-image: -webkit-gradient(to bottom, #57837B, #2A4E48);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #C9D8B6;
+  font-family: 'Ubuntu', sans-serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 20px;
+   -webkit-box-shadow: 1px 1px 20px 0 #515E63;
+   -moz-box-shadow: 1px 1px 20px 0 #515E63;
+   box-shadow: 1px 1px 20px 0 #515E63;
+   text-shadow: 1px 0 13px #515E63;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.contactme-button:hover {
+   border: solid #337FED 0;
+   background: #2A4E48;
+   background-image: -webkit-linear-gradient(top, #2A4E48, #57837B);
+   background-image: -moz-linear-gradient(top, #2A4E48, #57837B);
+   background-image: -ms-linear-gradient(top, #2A4E48, #57837B);
+   background-image: -o-linear-gradient(top, #2A4E48, #57837B);
+   background-image: -webkit-gradient(to bottom, #2A4E48, #57837B);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+h3 {
+  color: #406343;
+  font-size: 1.4em;
+}
+
+.contact-me p {
+  font-weight: bolder;
+  line-height: 3;
+}
+
+hr {
+  border: none;
+  border-top: dotted 4px grey;
+  width: 5%;
+  margin: auto;
+}
+
+.bottom-container {
+  background-color: #57837B;
+  margin-bottom: 0;
+  display: inline-block;
+  width: 100%;
+  padding-top: 30px;
+  line-height: 2;
+}
+
+.bottom-container a {
+  margin: 8px;
+  text-decoration: none;
+  color: #C9D8B6;
+}
+
+.bottom-container p {
+  color: white;
+}
